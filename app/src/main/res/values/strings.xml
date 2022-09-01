@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MainFragment</string>
+
+    <string name="f1">가격</string>
+    <string name="f2">등록</string>
+    <string name="just_imageView">그냥 이미지뷰</string>
+    <string name="f4">제품 설명</string>
+    <string name="f5">닉네임:%1$s</string>
+    <string name="f10">%1$s></string>
+    <string name="f6">메시지</string>
+    <string name="f8">보내기</string>
+    <string name="f9">그린마켓</string>
+    <string name="f7">채팅리스트</string>
+    <string name="f3">판매 하실 제품은 위의 카메라 버튼을 클릭하여 물건 사진을 올리실 수 있습니다. 물건은 갤러리에서 사진을 가져오는 것이 아닌 직접 촬영하셔야 업로도 할 수 있습니다.</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

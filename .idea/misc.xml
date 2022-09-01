@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Temp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.201" />
+        <entry key="..\:/Temp/app/src/main/res/drawable-v24/market.xml" value="0.201" />
+        <entry key="..\:/Temp/app/src/main/res/drawable-v24/market1.xml" value="0.201" />
+        <entry key="..\:/Temp/app/src/main/res/drawable-v241/ic_launcher_foreground.xml" value="0.201" />
+        <entry key="..\:/Temp/app/src/main/res/drawable/caht.xml" value="0.202" />
+        <entry key="..\:/Temp/app/src/main/res/drawable/camera2.xml" value="0.2075" />
+        <entry key="..\:/Temp/app/src/main/res/drawable/chat.xml" value="0.202" />
+        <entry key="..\:/Temp/app/src/main/res/drawable/chat12.xml" value="0.202" />
+        <entry key="..\:/Temp/app/src/main/res/drawable/homebutton.xml" value="0.2345" />
+        <entry key="..\:/Temp/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.201" />
+        <entry key="..\:/Temp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2345" />
+        <entry key="..\:/Temp/app/src/main/res/drawable/kakao.xml" value="0.176" />
+        <entry key="..\:/Temp/app/src/main/res/drawable/mesul.xml" value="0.202" />
+        <entry key="..\:/Temp/app/src/main/res/drawable/my.xml" value="0.202" />
+        <entry key="..\:/Temp/app/src/main/res/drawable/my12.xml" value="0.202" />
+        <entry key="..\:/Temp/app/src/main/res/drawable/search.xml" value="0.202" />
+        <entry key="..\:/Temp/app/src/main/res/drawable/search1.xml" value="0.202" />
+        <entry key="..\:/Temp/app/src/main/res/layout/activity_chat.xml" value="0.22395833333333334" />
+        <entry key="..\:/Temp/app/src/main/res/layout/activity_chat_list.xml" value="0.22395833333333334" />
+        <entry key="..\:/Temp/app/src/main/res/layout/activity_kakao.xml" value="0.13496376811594202" />
+        <entry key="..\:/Temp/app/src/main/res/layout/activity_kakao_main.xml" value="0.20677083333333332" />
+        <entry key="..\:/Temp/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Temp/app/src/main/res/layout/activity_main2.xml" value="0.18659420289855072" />
+        <entry key="..\:/Temp/app/src/main/res/layout/activity_search.xml" value="0.1875" />
+        <entry key="..\:/Temp/app/src/main/res/layout/activity_sub.xml" value="0.13496376811594202" />
+        <entry key="..\:/Temp/app/src/main/res/layout/activity_sup.xml" value="0.161231884057971" />
+        <entry key="..\:/Temp/app/src/main/res/layout/chat.xml" value="0.18659420289855072" />
+        <entry key="..\:/Temp/app/src/main/res/layout/chatting.xml" value="0.22395833333333334" />
+        <entry key="..\:/Temp/app/src/main/res/layout/esgsd.xml" value="0.13496376811594202" />
+        <entry key="..\:/Temp/app/src/main/res/layout/frag2.xml" value="0.264" />
+        <entry key="..\:/Temp/app/src/main/res/layout/frag3.xml" value="0.15625" />
+        <entry key="..\:/Temp/app/src/main/res/layout/fragment_home.xml" value="0.1875" />
+        <entry key="..\:/Temp/app/src/main/res/layout/fragment_my.xml" value="0.1875" />
+        <entry key="..\:/Temp/app/src/main/res/layout/fragment_search.xml" value="0.25" />
+        <entry key="..\:/Temp/app/src/main/res/layout/fragment_talk.xml" value="0.14634146341463414" />
+        <entry key="..\:/Temp/app/src/main/res/layout/home.xml" value="0.2548192771084337" />
+        <entry key="..\:/Temp/app/src/main/res/layout/homebutton.xml" value="0.22395833333333334" />
+        <entry key="..\:/Temp/app/src/main/res/layout/homebutton1.xml" value="0.22395833333333334" />
+        <entry key="..\:/Temp/app/src/main/res/layout/homebutton2.xml" value="0.22395833333333334" />
+        <entry key="..\:/Temp/app/src/main/res/layout/kakao.xml" value="0.1" />
+        <entry key="..\:/Temp/app/src/main/res/layout/mybutton.xml" value="0.18840579710144928" />
+        <entry key="..\:/Temp/app/src/main/res/layout/mybutton2.xml" value="0.22395833333333334" />
+        <entry key="..\:/Temp/app/src/main/res/layout/recyclerviewmake.xml" value="0.264" />
+        <entry key="..\:/Temp/app/src/main/res/layout/searchbutton.xml" value="0.18840579710144928" />
+        <entry key="..\:/Temp/app/src/main/res/layout/searchbutton2.xml" value="0.22395833333333334" />
+        <entry key="..\:/Temp/app/src/main/res/layout/string_test.xml" value="0.18840579710144928" />
+        <entry key="..\:/Temp/app/src/main/res/layout/talkbutton.xml" value="0.18840579710144928" />
+        <entry key="..\:/Temp/app/src/main/res/layout/talkbutton2.xml" value="0.22395833333333334" />
+        <entry key="..\:/Temp/app/src/main/res/layout/tradetest.xml" value="0.25" />
+        <entry key="..\:/Temp/app/src/main/res/layout/uerfile.xml" value="0.264" />
+        <entry key="..\:/Temp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.201" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_14" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

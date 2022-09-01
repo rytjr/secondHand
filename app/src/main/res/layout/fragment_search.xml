@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffff"
+    tools:context=".SearchFragment">
+
+    <ImageView
+
+        android:id="@+id/fireimage"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="30dp"
+        android:contentDescription="@string/just_imageView" />
+
+
+    <Button
+
+        android:id="@+id/fiewcamara"
+        android:layout_width="104dp"
+        android:layout_height="94dp"
+        android:layout_marginStart="250dp"
+        android:layout_marginTop="30dp"
+        android:drawableTop="@drawable/camera2"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <EditText
+        android:id="@+id/fireprice"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="170dp"
+        android:hint="@string/f1"
+        android:importantForAutofill="no"
+        android:inputType="text"
+        android:minHeight="48dp" />
+
+
+    <EditText
+        android:id="@+id/fireexplane"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="230dp"
+        android:hint="@string/f4"
+        android:importantForAutofill="no"
+        android:inputType="text"
+        android:minHeight="48dp"
+        android:textColorHint="#757575" />
+
+    <Button
+        android:layout_width="80dp"
+        android:layout_height="50dp"
+        android:id="@+id/put"
+        android:layout_marginTop="300dp"
+        android:text="@string/f2"
+        android:layout_marginStart="280dp"/>
+
+    <TextView
+        android:id="@+id/firetext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="400dp"
+        android:layout_marginRight="50dp"
+        android:text="@string/f3"
+        android:textColor="#625D5D"
+        android:textSize="20sp" />
+
+
+</FrameLayout>

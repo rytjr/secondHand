@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".SubActivity">
+
+    <LinearLayout
+        android:id="@+id/frame_layout1"
+        android:layout_width="match_parent"
+        android:layout_height="655dp"
+        android:background="#ffff"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:clickable="true"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="1"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/homebutton2"
+            android:layout_width="96dp"
+            android:layout_height="70dp"
+            android:layout_margin="3dp"
+            android:drawableTop="@drawable/mesul"
+            android:layout_weight="1"
+            android:text="홈" />
+
+        <Button
+            android:id="@+id/searchbutton2"
+            android:layout_width="96dp"
+            android:layout_height="70dp"
+            android:layout_weight="1"
+            android:layout_margin="3dp"
+            android:drawableTop="@drawable/search1"
+            android:text="등록" />
+
+        <Button
+            android:id="@+id/talkbutton2"
+            android:layout_weight="1"
+            android:layout_width="96dp"
+            android:layout_height="70dp"
+            android:layout_margin="3dp"
+            android:drawableTop="@drawable/chat12"
+            android:text="채팅" />
+
+        <Button
+            android:id="@+id/mybutton2"
+            android:layout_weight="1"
+            android:layout_width="96dp"
+            android:layout_height="70dp"
+            android:layout_margin="3dp"
+            android:drawableTop="@drawable/my12"
+            android:text="MY" />
+    </LinearLayout>
+
+
+</LinearLayout>
